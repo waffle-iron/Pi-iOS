@@ -1,0 +1,15 @@
+PODS:
+  - FXBlurView (1.6.4)
+  - iosMath (0.8.4)
+
+DEPENDENCIES:
+  - FXBlurView (~> 1.6.4)
+  - iosMath
+
+SPEC CHECKSUMS:
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  iosMath: 452a1f158b6aad6b462263b666f24a233a168fbb
+
+PODFILE CHECKSUM: 236c5033c359e75b2db6a5d4d35aba0321deab10
+
+COCOAPODS: 1.0.0
