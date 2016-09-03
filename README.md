@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ThePiProject/Pi-iOS.png?label=ready&title=Ready)](https://waffle.io/ThePiProject/Pi-iOS)
 # Pi
 
 **Welcome to Pi!**
